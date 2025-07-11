@@ -1,2 +1,2 @@
 # GuGu-Icon
-From GuGu Unit
+GuGu Unit Icon 收集库
