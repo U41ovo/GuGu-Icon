@@ -4,15 +4,15 @@
   "icons": [
     {
       "name": "Circle-Blue",
-      "url": "https://github.com/U41ovo/GuGu-Icon/blob/main/ICONS/Circle-Blue.PNG"
+      "url": "https://raw.githubusercontent.com/U41ovo/GuGu-Icon/refs/heads/main/ICONS/Circle-Blue.PNG"
     },
     {
       "name": "Circle-Purple",
-      "url": "https://github.com/U41ovo/GuGu-Icon/blob/main/ICONS/Circle-Purple.PNG"
+      "url": "https://raw.githubusercontent.com/U41ovo/GuGu-Icon/refs/heads/main/ICONS/Circle-Purple.PNG"
     },
     {
       "name": "Circle-White",
-      "url": "https://github.com/U41ovo/GuGu-Icon/blob/main/ICONS/Circle-White.PNG"
+      "url": "https://raw.githubusercontent.com/U41ovo/GuGu-Icon/refs/heads/main/ICONS/Circle-White.PNG"
     }
   ]
 }
